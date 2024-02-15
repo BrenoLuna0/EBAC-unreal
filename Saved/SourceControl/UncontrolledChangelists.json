@@ -6,6 +6,28 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/StarterContent/Collectable.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3R/G0BV2XLHV5FJEYNJB69MB6.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KL/E86IZ5O0UALTKYUBGAGV5E.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Q9/0B0Q3COKYOBPBGEGUMARVI.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CV/82RQKTX4MVR4BYM1NP58LB.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TH/MPELUCJNDCFOB257NTI8EY.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XU/Z0H21EV8VGKNX3FV66VY3E.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6K/PDCQXV2YYB43ZZ2V48VVY3.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/B3/WOXQM8DCECAC2NU51H5953.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZF/NZD7W6ABV4OUBH42RNHEDN.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QE/MZP10IR8YK780JQD408O4A.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KU/G5B4CUXIMO3W7J9DGXR1XW.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WD/3B2RIMW10TJE7IVO8DVZQQ.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/IX/GM8ZRYZRSBHKLYDXSNDH80.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/CU/Q3HRSHWT9S82B6KPSDEYGR.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0T/DBT8VHUA3ULXDKLYTCU5XC.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/OK/212HHAC4O8O8PILIGDN734.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/StarterContent/BP_Platform.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/G3/Z48B05EPL5RJIC81G2VFF0.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZU/4PADC4C7KGSDEGJFA2MMPM.uasset",
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CU/39IW8QVZMJ4VNI6NBTXOE9.uasset",
 				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
 				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
@@ -29,8 +51,7 @@
 				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
 				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
 				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
-				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+				"C:/Users/breno/OneDrive/Documentos/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
 			]
 		}
 	]
