@@ -2620,3 +2620,61 @@ Minimum required: 23.3.2
 [2024.02.20-16.36.08:435][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
 [2024.02.20-16.36.08:456][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2024.02.20-16.36.08:470][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 4.50 sec)
+[2024.02.20-16.49.48:517][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.20-16.49.48:535][456]LogStall: Shutdown...
+[2024.02.20-16.49.48:543][456]LogStall: Shutdown complete.
+[2024.02.20-16.49.48:920][456]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.49.48:920][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.49.49:479][456]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.49.49:480][456]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.49.49:480][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.49.49:690][456]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.49.49:690][456]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.49.49:690][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.49.50:195][456]LogSlate: Window 'MyFirstGame - Unreal Editor' being destroyed
+[2024.02.20-16.49.50:795][457]Cmd: QUIT_EDITOR
+[2024.02.20-16.49.50:796][457]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.02.20-16.49.50:938][457]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.02.20-16.49.50:953][457]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.02.20-16.49.50:953][457]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.02.20-16.49.51:051][457]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.49.51:051][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.49.51:166][457]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.02.20-16.49.51:944][457]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.02.20-16.49.53:665][457]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.02.20-16.49.53:665][457]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.02.20-16.49.53:665][457]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.02.20-16.49.53:665][457]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.02.20-16.49.53:675][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.20-16.49.53:676][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.20-16.49.53:704][457]LogAudio: Display: Audio Device Manager Shutdown
+[2024.02.20-16.49.53:705][457]LogWindowsTextInputMethodSystem: Activated input method: Português (Brasil) - (Keyboard).
+[2024.02.20-16.49.53:848][457]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.02.20-16.49.53:941][457]LogExit: Preparing to exit.
+[2024.02.20-16.49.54:750][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.02.20-16.49.54:770][457]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:770][457]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:775][457]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:776][457]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:777][457]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:777][457]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:777][457]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:777][457]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:777][457]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:777][457]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:777][457]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.49.54:777][457]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.50.00:616][457]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.50.00:620][457]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.50.00:623][457]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.50.00:626][457]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.50.00:630][457]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.50.00:633][457]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
